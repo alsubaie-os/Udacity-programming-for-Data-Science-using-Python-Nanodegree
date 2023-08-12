@@ -60,7 +60,7 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-[Check My Project Submission]( https://github.com/alsubaie-os/Udacity-programming-for-Data-Science-).
+[Check My Project Submission](https://github.com/alsubaie-os/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/main/Project-3-Git).
 
 My Certificate of Completion
 <img src="img/Programming for Data Scince with Python.png" width="1000">
